@@ -6,14 +6,54 @@ QLever (pronounced "Clever") is a graph database implementing the
 efficiently load and query very large datasets, even with hundreds of billions
 of triples, on a single commodity PC or server.
 
-[Quickstart](quickstart.md): Use QLever with some preconfigured datasets or your own data.
+<div class="grid cards" markdown>
 
-[Benchmarks](benchmarks.md): Performance evaluation and comparison with other systems.
+-   :material-clock-fast: __Quickstart__
 
-[Compliance](compliance.md): Compliance with the SPARQL 1.1 standard.
+    ---
 
-[Publications](publications.md): Publications on the various aspects and internals of QLever.
+    Use QLever with some preconfigured datasets or your own data
 
-[Uses Cases](use-cases.md): A selection of uses cases for QLever, many with public demos.
+    [:octicons-arrow-right-24: Quickstart](./quickstart.md)
 
-[FAQ](faq.md): Frequently asked questions.
+-   :material-database: __Uses Cases__
+
+    ---
+
+    A selection of uses cases for QLever, many with public demos
+
+    [:octicons-arrow-right-24: Uses Cases](use-cases.md)
+
+-   :material-comment-question: __FAQ__
+
+    ---
+
+    Frequently asked questions
+
+    [:octicons-arrow-right-24: FAQ](faq.md)
+
+-   :material-check-decagram: __Compliance__
+
+    ---
+
+    Compliance with the SPARQL 1.1 standard
+
+    [:octicons-arrow-right-24: Compliance](compliance.md)
+
+-   :material-chart-bar: __Benchmarks__
+
+    ---
+
+    Performance evaluation and comparison with other systems
+
+    [:octicons-arrow-right-24: Benchmarks](benchmarks.md)
+
+-   :material-book: __Publications__
+
+    ---
+
+    Publications on the various aspects and internals of QLever
+
+    [:octicons-arrow-right-24: Publications](publications.md)
+
+</div>
